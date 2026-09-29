@@ -34,11 +34,7 @@ Get an internship where I can apply my programming and problem-solving skills in
 
 ## 🛠️ Languages & Tools
 
-[
-
 ![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,js,mysql,git,github,vscode)
-
-](https://skillicons.dev)
 
 **Languages:** C, Python, Java (Basics)
 
